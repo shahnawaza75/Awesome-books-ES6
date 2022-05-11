@@ -10,7 +10,7 @@
 
 ## Live Demo
 
-https://yorsyboy.github.io/Es6_AwesomeBooks/
+https://github.com/shahnawaza75/Awesome-books-ES6/
 
 ### Prerequisites
 
@@ -23,7 +23,7 @@ The basic requirements for building the executable are:
 #### Cloning the project
 
 ```
-https://github.com/Yorsyboy/Es6_AwesomeBooks.git
+https://github.com/shahnawaza75/Awesome-books-ES6.git
 ```
 
 ### Usage
@@ -34,9 +34,9 @@ Open index.html in Chrome
 
 👤 **Toyosi Taiwo**
 
-- GitHub: [@shahnawaza75](https://github.com/Yorsyboy)
-- Twitter: [@shahnawaza75](https://twitter.com/Tboytaiwo)
-- LinkedIn: [@shahnawaza75](https://linkedin.com/in/taiwo-toyosi)
+- GitHub: [@shahnawaza75](https://github.com/shahnawaza75)
+- Twitter: [@shahnawaza75](https://twitter.com/shahnawaza75)
+- LinkedIn: [@shahnawaza75](https://www.linkedin.com/in/shahnawaz-ali-a24b72204)
 
 ## 🤝 Contributing
 
